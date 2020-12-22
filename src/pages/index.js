@@ -34,7 +34,7 @@ const IndexPage = () => {
     </h3>
     {/* ↓ コードブロックを追加 */}
     <pre>
-      <code>{code}</code>
+      <code class="language-jsx">{code}</code>
     </pre>
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
